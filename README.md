@@ -118,7 +118,7 @@ Planned/implemented API routes (depending on version):
 - **Database:** SQLite (`auth.db`) for user accounts   
 - **Frontend:** HTML + CSS (modern card-based UI)
 
-Dependencies are listed in **`requirements.txt`**. :contentReference[oaicite:16]{index=16}
+Dependencies are listed in **`requirements.txt`**. 
 
 ---
 
